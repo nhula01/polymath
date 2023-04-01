@@ -1,0 +1,8 @@
+How I get started with Git: 
+Videos:
+Mosh: https://www.youtube.com/watch?v=8JJ101D3knE
+Corey: https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx
+Freecodecamp: https://www.youtube.com/watch?v=Uszj_k0DGsg
+	https://www.youtube.com/watch?v=qsTthZi23VE
+
+      
